@@ -1,8 +1,7 @@
 # Vinícius Almeida Alves
 
 
-**Formação:**
-
+**Formação:** <br>
 Engenheiro da Computação | UAM <br> Técnico em Informática | Senac
 
 **Projetos:** Análise de Dados e Automação, Engenharia de Dados e AI Engineer
