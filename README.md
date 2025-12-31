@@ -11,6 +11,6 @@ Técnico em Informática | Senac
 
 | Projeto | Descrição | Tecnologias | IDE | Tipo de Projeto | Link |
 |--------|-----------|-------------|-----|-----------------|------|
-| Análise de Dados de Aluguéis e Ocupação com MySQL | Scripts SQL para análise de dados fictícios de aluguéis, com foco em métricas de ocupação, desempenho e tendências de mercado. | MySQL | MySQL Workbench | Academico | <a href="https://github.com/viniciusalmeidaalves/mysql-workbench-consultando-dados-da-insight-places" target="_blank">🔗</a> |
+| Análise de Dados de Aluguéis e Ocupação com MySQL | Scripts SQL para análise de dados fictícios de aluguéis, com foco em métricas de ocupação, desempenho e tendências de mercado. | MySQL | MySQL Workbench | Academico | [🔗](https://github.com/viniciusalmeidaalves/mysql-workbench-consultando-dados-da-insight-places) |
 
 
