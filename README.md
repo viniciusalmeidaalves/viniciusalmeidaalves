@@ -16,7 +16,9 @@ Engenheiro da Computação | UAM <br> Técnico em Informática | Senac
 **Projetos:** Automação
 | Imagem | Projeto | Descrição | Tecnologias | Repositório |
 |-------|--------|-----------|-------------|-------------|
-| <img src="https://github.com/user-attachments/assets/77159066-d911-4329-bb24-69a74ee28148" width="180" /> | Automação de SEO para Planilhas com Google Gemini | **Antes:** Criação manual e repetitiva de títulos, descrições e palavras-chave de SEO para produtos em planilhas, com alto esforço operacional e baixa escalabilidade.<br> **Depois:** Desenvolvimento de automação em Python integrada à API do Google Gemini para geração automática de conteúdos de SEO, com controle de status, retentativas e continuidade de processamento.<br> **Impacto:** Redução significativa do trabalho manual, padronização do SEO e aumento de produtividade na criação de conteúdos orientados a dados e IA.<br><br>**Tipo:** Profissional | Python · Google Gemini API · Excel · Visual Studio Code | [🔗 GitHub](https://github.com/viniciusalmeidaalves/automacao-seo-planilhas-gemini) |
+| <img src="https://github.com/user-attachments/assets/77159066-d911-4329-bb24-69a74ee28148" width="180" /> | Automação de SEO para Planilhas com Google Gemini | **Antes:** Criação manual de conteúdos de SEO em planilhas, com alto esforço operacional.<br>**Depois:** Automação em Python integrada à API do Google Gemini para geração de títulos, descrições e palavras-chave.<br>**Impacto:** Aumento de produtividade, padronização do SEO e escalabilidade do processo.<br><br>**Tipo:** Profissional<br> | Python · Google Gemini API · Excel · Visual Studio Code | [🔗 GitHub](https://github.com/viniciusalmeidaalves/automacao-seo-planilhas-gemini) |
+
+
 
 
 
