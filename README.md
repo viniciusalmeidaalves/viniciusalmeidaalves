@@ -5,7 +5,7 @@ Atuação em desenvolvimento de software, soluções web e aplicações de intel
 **Formação:** <br>
 Engenheiro da Computação | UAM <br> Técnico em Informática | Senac
 
-**Projetos:** Análise de Dados e Automação, Engenharia de Dados e AI Engineer
+**Projetos:** Dados
 
 | Imagem | Projeto | Descrição | Tecnologias | Repositório |
 |-------|--------|-----------|-------------|-------------|
