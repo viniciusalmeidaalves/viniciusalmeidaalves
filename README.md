@@ -1,5 +1,6 @@
 # Vinícius Almeida Alves
 
+Engenheiro da Computação com experiência em ambientes industriais e operacionais, atuando no desenvolvimento de indicadores, automação de dados e suporte à tomada de decisão. Vivência em empresas de grande porte, com foco em eficiência operacional, melhoria contínua e integração entre tecnologia e áreas de negócio.
 
 **Formação:** <br>
 Engenheiro da Computação | UAM <br> Técnico em Informática | Senac
